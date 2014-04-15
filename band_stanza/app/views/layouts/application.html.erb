@@ -5,22 +5,30 @@
   <%= stylesheet_link_tag    "application", :media => "all" %>
   <%= javascript_include_tag "application" %>
   <%= csrf_meta_tags %>
+  <style>
+     p  {
+       word-spacing: 340px;
+        }
+    </style>
 </head>
 <body class="<%= controller.controller_name %>">
 
   <div id="imge" align="left">
-   <%= image_tag("STANZA.png") %>
+    <h5 align="right"><a href="http://localhost:3000">Sign in</a></h5> 
+   <%= image_tag("STANZA diff.png") %>
+   
   </div> 
-  <div id="banner">
-    
+  <div id="banner">  
     <%= @page_title || "STANZA Official Page" %>
+ 
   </div> 
 
   <div id="side">
-     <a href="http://localhost:3000">Home</a>   
-     <a href="http://ru.wikipedia.org/wiki/Stanza">Wiki Page</a>
+     <p><a href="http://localhost:3000">Home</a>  
+     
+     <a href="http://ru.wikipedia.org/wiki/Stanza">Wiki</a>
      <a href="http://localhost:3000/album">Album</a>
-     <a href="http://localhost:3000/Media">Media</a>
+     <a href="http://localhost:3000/Media">Media</a></p>
   </div> 
 
 <%= yield %>
