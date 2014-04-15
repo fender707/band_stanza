@@ -12,6 +12,10 @@
  *= require_tree .
  */
 
+#imge {
+      background: #fc1;
+      }
+
 #banner {
     background: #fc1;
     padding: 10px;

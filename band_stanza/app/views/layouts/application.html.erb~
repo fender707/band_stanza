@@ -7,10 +7,15 @@
   <%= csrf_meta_tags %>
 </head>
 <body class="<%= controller.controller_name %>">
+
+  <div id="imge" align="left">
+   <%= image_tag("STANZA.png") %>
+  </div> 
   <div id="banner">
-    <%= image_tag("STANZA.png") %>
+    
     <%= @page_title || "STANZA Official Page" %>
-  </div>  
+  </div> 
+
   <div id="side">
      <a href="http://localhost:3000">Home</a>   
      <a href="http://ru.wikipedia.org/wiki/Stanza">Wiki Page</a>
