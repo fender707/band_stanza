@@ -8,14 +8,14 @@
 </head>
 <body class="<%= controller.controller_name %>">
   <div id="banner">
-    <%= image_tag("logo.ipg") %>
-    <%= @page_title || "Band STANZA" %>
+    <%= image_tag("STANZA.png") %><br>
+    <%= @page_title || "STANZA Official Page" %>
   </div>  
   <div id="side">
-     <li><a href="http://localhost:3000">Home</a></li>
-     <li><a href="http://ru.wikipedia.org/wiki/Stanza">Wiki Page</a></li>
-     <li><a href="http://localhost:3000/album">Album</a></li>
-     <li><a href="http://localhost:3000/Media">Media</a></li>
+     <a href="http://localhost:3000">Home</a>   
+     <a href="http://ru.wikipedia.org/wiki/Stanza">Wiki Page</a>
+     <a href="http://localhost:3000/album">Album</a>
+     <a href="http://localhost:3000/Media">Media</a>
   </div> 
 
 <%= yield %>

@@ -13,28 +13,32 @@
  */
 
 #banner {
-    background: #9c9;
+    background: #fc1;
     padding: 10px;
     border-bottom: 2px solid;
     font: small-caps 40px/40px "Times New Roman", serif;
-    color: #282;
+    color: #343;
     text-align: center;
+
+   img {
+         float: left;
+       }
     
 }
 
 #side {
     float: left;
-    padding: 1em 2em;
-    width: 13em;
-    background: #141;
-
+    padding: 10px;
+    border-bottom: 2px solid;
+    background: #cfb;
+font: small-caps 20px/20px "Times New Roman", serif;
      ul  {
      padding: 0;
         li  {
              list-style: none; 
             }
           a {
-             color: #bfb;
+             color: #0fb;
 	     font-size: small;
             }
  	 }
