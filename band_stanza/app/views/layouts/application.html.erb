@@ -6,7 +6,17 @@
   <%= javascript_include_tag "application" %>
   <%= csrf_meta_tags %>
 </head>
-<body>
+<body class="<%= controller.controller_name %>">
+  <div id="banner">
+    <%= image_tag("logo.ipg") %>
+    <%= @page_title || "Band STANZA" %>
+  </div>  
+  <div id="side">
+     <li><a href="http://localhost:3000">Home</a></li>
+     <li><a href="http://ru.wikipedia.org/wiki/Stanza">Wiki Page</a></li>
+     <li><a href="http://localhost:3000/album">Album</a></li>
+     <li><a href="http://localhost:3000/Media">Media</a></li>
+  </div> 
 
 <%= yield %>
 

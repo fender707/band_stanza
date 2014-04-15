@@ -2,4 +2,4 @@
 <p id="notice"><%= notice %></p>
 <% end %>
 
-<h1><center> STANZA Official Page </h1>
+<h1> STANZA Official Page </h1>
