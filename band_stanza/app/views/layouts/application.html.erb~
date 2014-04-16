@@ -62,7 +62,7 @@
               <li><%= link_to "Photo", "/path4"  %></li>
               <li><%= link_to "Biography", "/path5"  %></li>
               <li><%= link_to "Breath", "/path6"  %></li>
-              <li><%= link_to "Reviews", "http://localhost:3000/reviews"  %></li>
+              <li><%= link_to "Reviews&Questions", "http://localhost:3000/reviews"  %></li>
 
             </ul>
           </div><!--/.nav-collapse -->
