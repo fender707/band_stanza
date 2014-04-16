@@ -12,9 +12,6 @@
  *= require_tree .
  */
 
-.body {
-   background-image: url("/public/musical-headphones.jpg");   
-      }
 
 #imge {
       background: #fc1;
@@ -43,6 +40,7 @@ font: small-caps 20px/20px "Times New Roman", serif;
      padding: 0;
         li  {
              list-style: none; 
+             color: #0fb;
             }
           a {
              color: #0fb;

@@ -62,6 +62,8 @@
               <li><%= link_to "Photo", "/path4"  %></li>
               <li><%= link_to "Biography", "/path5"  %></li>
               <li><%= link_to "Breath", "/path6"  %></li>
+              <li><%= link_to "Reviews", "http://localhost:3000/reviews"  %></li>
+
             </ul>
           </div><!--/.nav-collapse -->
         </div>
@@ -80,8 +82,8 @@
               <ul class="nav nav-list">
                 <li class="nav-header">Latest</li>
                 <li><%= link_to "29.03.2014 - Stanza in Tarantino", "/path1"  %></li>
-                <li><%= link_to "Link2", "/path2"  %></li>
-                <li><%= link_to "Link3", "/path3"  %></li>
+                <li><%= link_to "18.01.2014 - Stanza in PuPuPub", "/path2"  %></li>
+                <li><%= link_to "08.02.2014 - Stanza in Art-pub", "/path3"  %></li>
               </ul>
             </div><!--/.well -->
           </div><!--/span-->
