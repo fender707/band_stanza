@@ -37,7 +37,7 @@
     <%= javascript_include_tag "application" %>
   <style>
     body {
-      background: url("guitar-29-song-music.jpg");  
+      background: url("22.jpg");  
          }
          
   </style>

@@ -5,5 +5,7 @@
 
 <center><%= image_tag("STANZA diff.png") %></center>
 
-<center><%= image_tag("22.jpg") %></center>
+<center><%= image_tag("IMG_3433little.jpg") %></center>
+
+ <%= mp3_player("/public/file.mp3") %>
 

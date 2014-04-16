@@ -1,4 +1,7 @@
 @import "twitter/bootstrap/bootstrap";
+
+body { padding-top: 60px; }
+
 @import "twitter/bootstrap/responsive";
 
 // Set the correct sprite paths
@@ -6,7 +9,7 @@
 @iconWhiteSpritePath: image-url("twitter/bootstrap/glyphicons-halflings-white.png");
 
 // Set the Font Awesome (Font Awesome is default. You can disable by commenting below lines)
-@fontAwesomeEotPath: asset-url("fontawesome-webfont.eot");
+//@fontAwesomeEotPath: asset-url("fontawesome-webfont.eot");
 @fontAwesomeEotPath_iefix: asset-url("fontawesome-webfont.eot?#iefix");
 @fontAwesomeWoffPath: asset-url("fontawesome-webfont.woff");
 @fontAwesomeTtfPath: asset-url("fontawesome-webfont.ttf");

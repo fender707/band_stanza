@@ -1,4 +1,7 @@
 BandStanza::Application.routes.draw do
+  resources :reviews
+
+
   get "user/index"
 
   # The priority is based upon order of creation:
