@@ -1,0 +1,778 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>Download Headphones Music Wallpaper 1280x1024 | Wallpoper #419125</title>
+                <meta name="description" content="free Headphones Music wallpaper, resolution : 1280 x 1024. tags: Headphones, Music. wallpaper #419125." />
+                                <meta property="og:title" content="Headphones Music Wallpaper" />
+                <meta property="og:url" content="http://wallpoper.com/wallpaper/headphones-music-419125" />
+                <meta property="og:image" content="http://wallpoper.com/images/00/41/91/25/headphones-music_00419125_thumb.jpg" />
+                <meta property="og:site_name" content="wallpoper" />
+                <meta property="fb:admins" content="1144741309" />
+                		<link type="text/css" rel="stylesheet" href="http://wallpoper.com/css/style.css?1370356446" />
+                                <link rel="canonical" href="http://wallpoper.com/wallpaper/headphones-music-419125"/>
+                		<script type="text/javascript" src="http://wallpoper.com/js/jquery.min.js"></script>
+		<script type="text/javascript" src="http://wallpoper.com/js/jquery.miniColors.min.js"></script>
+		<script type="text/javascript" src="http://wallpoper.com/js/jquery-ui-1.8.16.custom.min.js"></script>
+		<script type="text/javascript" src="http://wallpoper.com/js/jquery.Jcrop.min.js"></script>
+		<script type="text/javascript" src="http://wallpoper.com/js/masonry.js"></script>
+		<script type="text/javascript">
+			var is_login = 'nope';
+		</script>
+		<script type="text/javascript">
+			var jc = '';
+		</script>	
+	</head>
+<body>
+<div id="fb-root"></div>
+<header>
+	<div id="header">
+		<div id="logo">
+			<a href="http://wallpoper.com/">wall<span>poper</span></a>
+			<div class="clr"></div>
+		</div>
+		<div id="searchWrap">
+			<div id="tabWrap">
+				<div id="tab">
+					<!-- Tab 1 -->
+					<form class="searchBox1" id="keywordsearch" action="http://wallpoper.com/search/" method="POST" onsubmit="_gaq.push(['_trackEvent', 'search', 'search by keyword']);">
+						<div class="searchWrap">
+                            <input type="hidden" name="q" value="key"/>
+                            <input id="keyword" type="text" name="keyword" placeholder="search" />
+                            <input class="searchButton" type="submit" value="" />
+                            <input name="r" type="hidden" value="noajax" />
+                            <input name="page" type="hidden" value="1" />
+                            <input name="res" type="hidden" value="all" />
+                            <input name="resopt" type="hidden" value="exactly" />
+                            <div style="clear:both;"></div>
+                    	</div>		
+					</form>
+
+					<!-- Tab 2 -->
+					<form class="searchBox2" id="colorsearch" action="http://wallpoper.com/search/" method="POST" onsubmit="_gaq.push(['_trackEvent', 'search', 'search by color']);">
+						<div class="searchWrap">
+                            <input type="hidden" name="q" value="col"/>
+                            <input id="colorhex" type="text" name="color" class="colors" size="7" placeholder="click to choose color" />
+                            <input class="searchButton" type="submit" value="" />
+                            <input name="r" type="hidden" value="noajax" />
+                            <input name="page" type="hidden" value="1" />
+                            <input name="res" type="hidden" value="all" />
+                            <input name="resopt" type="hidden" value="exactly" />
+                            <div style="clear:both;"></div>
+                       </div>
+						<div id="advance">
+							<span id="close">x</span>
+							<p>
+		  						<label for="amount">Color variance </label>
+		  						<input type="text" name="variance" id="amount" style="border:0; color:#0077dd; font-weight:bold;" />
+							</p>
+							<br />
+							<div id="slider"></div>
+							<br />
+							<p>
+		  						<label for="amount1">Color minimum </label>
+		  						<input type="text" name="minimum" id="amount1" style="border:0; color:#0077dd; font-weight:bold;" />
+							</p>
+							<br />
+							<div id="slider1"></div><br />
+						</div><!-- end div#advance -->
+					</form>
+				</div><!-- end div#tab -->
+			</div><!-- end div#tabWrap -->
+
+
+<div id="resolution">
+	
+	<ul class="select">
+	<div id="restitle">search by:</div>
+		<li class="selected">
+			<div id="kw" class="searchtype">&lt;keyword&gt;</div>
+			<div id="clr" class="searchtype">&lt;color&gt;</div>
+		</li>
+		<div id="restitle">resolution:</div>
+		<li class="selected">
+			<div id="exact" class="resopt" fvalue="atleast" onClick="_gaq.push(['_trackEvent', 'search', 'resolution - at least']);">&lt;exactly&gt;</div>
+			<div id="atleast" class="resopt" fvalue="exactly" onClick="_gaq.push(['_trackEvent', 'search', 'resolution - exact']);">&lt;at least&gt;</div>
+		</li>
+		<li class="selected">
+			<div id="selectedres" onClick="_gaq.push(['_trackEvent', 'search', 'resolution option']);">all</div>
+		</li>
+                <li class="clr"></li>
+	</ul>
+	<div id="searchOption" onClick="_gaq.push(['_trackEvent', 'search', 'color option']);">color option</div>
+        <div class="clr"></div>
+	<div id="resolutionpanel">
+		<ul class="resolutionList">
+		    <li class="header">Standard</li>
+		    <li class="item"><a fvalue="800x600" class="res" href="javascript:void(0);">800x600</a></li>
+		    <li class="item"><a fvalue="1024x768" class="res" href="javascript:void(0);">1024x768</a></li>
+		    <li class="item"><a fvalue="1280x960" class="res" href="javascript:void(0);">1280x960</a></li>
+		    <li class="item"><a fvalue="1280x1024" class="res" href="javascript:void(0);">1280x1024</a></li>
+		    <li class="item"><a fvalue="1400x1050" class="res" href="javascript:void(0);">1400x1050</a></li>
+		    <li class="item"><a fvalue="1600x1200" class="res" href="javascript:void(0);">1600x1200</a></li>
+		    <li class="item"><a fvalue="2560x2048" class="res" href="javascript:void(0);">2560x2048</a></li>
+		</ul>
+
+		<ul class="resolutionList">
+		    <li class="header">Widescreen</li>
+		    <li class="item"><a fvalue="1024x600" class="res" href="javascript:;">1024x600</a></li>
+		    <li class="item"><a fvalue="1280x800" class="res" href="javascript:;">1280x800</a></li>
+		    <li class="item"><a fvalue="1366x768" class="res" href="javascript:;">1366x768</a></li>
+		    <li class="item"><a fvalue="1440x900" class="res" href="javascript:;">1440x900</a></li>
+		    <li class="item"><a fvalue="1600x900" class="res" href="javascript:;">1600x900</a></li>
+		    <li class="item"><a fvalue="1680x1050" class="res" href="javascript:;">1680x1050</a></li>
+		    <li class="item"><a fvalue="1920x1080" class="res" href="javascript:;">1920x1080</a></li>
+		    <li class="item"><a fvalue="1920x1200" class="res" href="javascript:;">1920x1200</a></li>
+		    <li class="item"><a fvalue="2560x1440" class="res" href="javascript:;">2560x1440</a></li>
+		    <li class="item"><a fvalue="2560x1600" class="res" href="javascript:;">2560x1600</a></li>
+		</ul>
+
+		<ul class="resolutionList">
+		    <li class="header">Mobile Device</li>
+		    <li class="item"><a fvalue="240x320" class="res" href="javascript:;">240x320 (ipod)</a></li>
+		    <li class="item"><a fvalue="320x480" class="res" href="javascript:;">320x480 (iphone)</a></li>
+		    <li class="item"><a fvalue="640x960" class="res" href="javascript:;">640x960 (iphone4)</a></li>
+		    <li class="item"><a fvalue="1024x1024" class="res" href="javascript:;">1024x1024 (ipad)</a></li><br />
+
+		    <li class="header"><b>My resolution</b></li>
+		    <li class="item">
+		    <script type="text/javascript">
+		    document.write("<a href='javascript:;' class='res' fvalue='"+ screen.width + "x" + screen.height +"'>" + screen.width + "x" + screen.height + "</a>");
+		    </script>
+		    </li><br /><br />
+		    <li class="item"><a fvalue="all" class="res" href="javascript:;">all resolution</a></li>
+		</ul>
+		<ul class="clr"></ul>
+	</div><!-- end div#resolutionpanel -->
+</div><!-- end div#resolution -->
+
+		</div>
+					   <!-- Slider -->
+
+
+
+
+		<div id="loading">Loading...</div>
+
+		<div id="navigation">
+    	<ul>
+											 
+        		<li class="none"><span id="fblogin"><a onClick="_gaq.push(['_trackEvent', 'social', 'fblogin']);" rel="nofollow" href="javascript:login_fb()">login</a></span></li>
+			
+       </ul>
+	   </div><!-- end div#navigation -->
+
+
+	   <nav id="subnavigation">
+			<ul>
+    	    	<li><a href="http://wallpoper.com/new-wallpaper">what's new?</a></li>
+    			<li><a href="http://wallpoper.com/popular-wallpaper">popular</a></li>
+    		<!-- 	<li><a href="http://wallpoper.com/most-download">most download</a></li> -->
+    			<li><a href="http://wallpoper.com/random">random</a></li>
+			</ul>
+		</nav><!-- end #subnavigation -->
+
+		<div style="clear:both;"></div>
+
+</div> <!-- end div#header -->
+
+	<div id="subheader"></div>
+</header>
+
+<script type="text/javascript">
+ $(document).ready(function() {
+ 
+    fitscreen(1280,1024);
+	$(window).resize(function(){
+		fitscreen(1280,1024);       
+	});
+	var mul = microtime(true);
+	var sep = 0;
+	var lop = 0;
+	var cl = setInterval(function() {
+								sep = microtime(true);
+								console.log('Load : '+sep);
+								lop = sep - mul;
+								$('#loadimgcalc').text('Image loading '+parseFloat(lop).toFixed(2)+' seconds')
+							   }, 10);
+		
+	$("img#bigwallpaper").one('load', function() {
+	  var sel = microtime(true);
+	  var lod = sel - mul;
+	  var lod = parseFloat(lod).toFixed(2);
+	  var lodi = parseInt(lod);
+	  clearInterval(cl);
+	   _gaq.push(['_trackEvent', 'wallpaper', 'loaded', 'wallpaper/headphones-music-419125', lodi, true]);
+	  $('#loadimgcalc').text('Image Loaded in '+lod+' seconds');
+	}).each(function() {
+	  if(this.complete) $(this).load();
+	});
+});
+</script>
+<div id="wallpaper">
+	<div id="big">
+	<h1>Headphones Music Wallpaper</h1>	
+		<div class="line"></div>
+	
+		<img id="bigwallpaper" 
+			alt="1280x1024 Headphones Music wallpaper" 
+			title="1280x1024 Headphones Music wallpaper" 
+			src="http://wallpoper.com/images/00/41/91/25/headphones-music_00419125.jpg" 
+			onContextmenu="_gaq.push(['_trackEvent', 'wallpaper', 'Download', 'wallpaper/headphones-music-419125']);"
+		/>
+		<div style="margin: 0px 150px;">
+			<input type="hidden" name="IL_IN_TAG" value="1"/>
+		</div>
+		<p>Headphones Music Wallpaper 1280x1024 Headphones, Music </p>
+		
+<!-- ads -->
+<center style="padding: 20px 0px; border-radius: 3px 3px 3px 3px; margin: 20px; border: 1px solid rgb(221, 221, 221); background: none repeat scroll 0px 0px rgb(246, 246, 246);">
+	        		<!-- BEGIN ATF 728PX X 90PX -->
+					<IFRAME WIDTH='728px'HEIGHT='90px'MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR='#000000' SRC='http://ad.directrev.com/RealMedia/ads/adstream_sx.ads/S0001453/1[randomNo]@x01'><A HREF='http://ad.directrev.com/RealMedia/ads/click_nx.ads/S0001453/1[randomNo]@x01'><IMG SRC='http://ad.directrev.com/RealMedia/ads/adstream_nx.ads/S0001453/1[randomNo]@x01'></A></IFRAME>
+					<!-- END ATF 728PX x 90PX -->
+					</center>
+<!-- ads -->		
+		<div id="resizeinfo"></div>
+		<div id="imgtools">
+			<div id="ae" onClick="_gaq.push(['_trackEvent', 'wallpaper', 'edit', 'wallpaper/headphones-music-419125']);">edit</div>
+		</div>
+		<div class="line"></div>
+	</div><!-- #big -->
+	
+	<div id="sidebar">
+		<div id="sharewallpaper">
+			<h3>Help Us Grow</h3>
+			
+			<div class="line"></div>
+			<div class="sharebutton" onClick="_gaq.push(['_trackEvent', 'social', 'pinterest', 'wallpaper/headphones-music-419125']);">
+				<a style="margin-top:41px !important;" href="http://pinterest.com/pin/create/button/?url=http://wallpoper.com/wallpaper/headphones-music-419125&media=http://wallpoper.com/images/00/41/91/25/headphones-music_00419125.jpg&description=Headphones Music Wallpaper via http://wallpoper.com" class="pin-it-button" count-layout="vertical" rel="nofollow">
+					<img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" />
+				</a>
+			</div>
+
+			<div class="sharebutton" onClick="_gaq.push(['_trackEvent', 'social', 'fblike', 'wallpaper/headphones-music-419125']);">
+				<div class="fb-like" data-href="http://wallpoper.com/wallpaper/headphones-music-419125" data-send="false" data-layout="box_count" data-width="50" data-show-faces="false"></div>
+			</div>
+
+			<div class="sharebutton" onClick="_gaq.push(['_trackEvent', 'social', 'gplus', 'wallpaper/headphones-music-419125']);">
+				<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+				<g:plusone size="tall"></g:plusone>
+			</div>
+
+			<div class="sharebutton" onClick="_gaq.push(['_trackEvent', 'social', 'tweet', 'wallpaper/headphones-music-419125']);" >
+				<a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" rel="nofollow">Tweet</a>
+				<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+			</div>
+
+			<div class="clr"></div>
+		</div><!-- end div#sharewallpaper-->
+		<center>
+				        		<!-- BEGIN ATF 300PX X 250PX -->
+					<IFRAME WIDTH='300px'HEIGHT='250px'MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR='#000000' SRC='http://ad.directrev.com/RealMedia/ads/adstream_sx.ads/S0001453/1[randomNo]@x04'><A HREF='http://ad.directrev.com/RealMedia/ads/click_nx.ads/S0001453/1[randomNo]@x04'><IMG SRC='http://ad.directrev.com/RealMedia/ads/adstream_nx.ads/S0001453/1[randomNo]@x04'></A></IFRAME>
+					<!-- END ATF 300PX x 250PX -->
+							
+		</center>
+		<div class="line"></div>
+		
+		<center>
+			<iframe id='526fad99d139b' name='526fad99d139b' src='http://ad.propellerads.com/afr.php?zoneid=9983' frameborder='0' scrolling='no' width='288' height='36'><a href='http://ad.propellerads.com/ck.php?n=526fad99d139b' target='_blank'><img src='http://ad.propellerads.com/avw.php?zoneid=&n=526fad99d139b' border='0' alt='' /></a></iframe>
+		</center>
+		<div class="line"></div>
+		<div id="collectionbutton">
+	    	<span id="add">pop it</span>
+	    </div>
+	    <div id="ajaxadd">
+			<div class="buble"></div>
+			
+<form id="postcoll" action="http://wallpoper.com/add-collection.php" method="POST" onsubmit="_gaq.push(['_trackEvent', 'wallpaper', 'add to collection', 'wallpaper/headphones-music-419125']);">
+    <input type="hidden" name="uid" value="" />
+    <input type="hidden" name="wid" value="00419125" />
+    <input type="hidden" name="cid" value="" />
+    <input type="hidden" name="cname" value="" />
+    <input placeholder="new wall" type="text" name="collection_new" value="" /><br />
+
+    <input name="submit" type="submit" value="pop it" /><br />
+</form>
+
+		</div><!-- #ajaxadd -->
+
+		<div id="alert">
+			<div class="buble"></div>
+			<div id="insert"></div>
+			<div id="closealert">x</div>
+		</div><!-- #alert -->
+		
+	    <div class="line"></div>
+	    <div id="e" class="fbbut fbicon" onClick="_gaq.push(['_trackEvent', 'wallpaper', 'crop', 'wallpaper/headphones-music-419125']);"><span>use for facebook cover</span></div>
+	    	<div class="cropperty" style="display:none">	
+				<form action="/fbcrop.php" method="POST" onsubmit="return checkPerty();" id="savecrop">
+					<input type="hidden" size="4" id="x" name="x" /></label>
+					<input type="hidden" size="4" id="y" name="y" /></label>
+					<input type="hidden" size="4" id="x2" name="x2" /></label>
+					<input type="hidden" size="4" id="y2" name="y2" /></label>
+					<input type="hidden" size="4" id="w" name="w" /></label>
+					<input type="hidden" size="4" id="h" name="h" /></label>
+					<input type="hidden" value="00419125" name="id" />
+					<input type="hidden" value="Headphones Music" name="title" />
+					<input type="hidden" value="http://wallpoper.com/images/00/41/91/25/headphones-music_00419125.jpg" name="img" id="himg" />
+					<!-- <input type="submit" value="Save" onClick="_gaq.push(['_trackEvent', 'wallpaper', 'done cropping', 'wallpaper/headphones-music-419125']);"/> -->
+					<div class="fbbut fbaction fbicon" onclick="$('#savecrop').submit()"><span>done</span></div>
+					<div class="fbbut fbaction" id="ce"><span>cancel</span></div>
+				</form>
+			</div>
+	    <div class="line"></div>
+<!-- Begin MailChimp Signup Form -->
+<h3>Do you want to make Money by selling your artwork?</h3>
+<p>We are working on <b>Artwork Marketplace</b>.<br>
+We will notifify you once the marketplace opened.<br>
+<b>enter you email below</b></p>
+<div id="mc_embed_signup">
+<form action="http://wallpoper.us5.list-manage1.com/subscribe/post?u=819b890ef070fbb1569a4c53b&amp;id=c2b550217a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+<style type="text/css">
+#mce-EMAIL { border:1px solid #ccc; padding: 5px; margin: 5px 0; width: 95%; border-radius: 3px; }
+#mc-embedded-subscribe {
+background: #336699;
+    color: #fff;
+    padding: 5px;
+    border: medium none;
+    border-radius: 3px;
+    cursor: pointer;
+    text-align: center;
+}
+</style>
+	
+<div class="mc-field-group">
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>	<div class="clear"><input type="submit" value="YES, Let me know !" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+
+</form>
+</div>
+<p>We hate spam and we will never ever spam you.</p>
+<div class="line"></div>
+<!--End mc_embed_signup-->	    
+	    
+	    <div class="row">
+		    <span>type</span>
+		    <span class="right">
+		    standart wallpaper			</span>
+			<div class="clr"></div>
+		</div><!-- .row -->
+		<div class="row">
+			<span>pallete</span>
+			<span id="pallete" class="right">
+				        <a style="background-color: rgb(255, 255, 255);">&nbsp;</a> 
+ 	       	        <a style="background-color: rgb(240, 240, 240);">&nbsp;</a> 
+ 	       	        <a style="background-color: rgb(24, 24, 24);">&nbsp;</a> 
+ 	       	        <a style="background-color: rgb(216, 216, 216);">&nbsp;</a> 
+ 	       	        <a style="background-color: rgb(0, 0, 0);">&nbsp;</a> 
+ 	       	    	</span><!-- #pallete -->
+    		<div class="clr"></div>
+	    </div><!-- .row -->
+		<div class="row">
+			<span>resolution</span>
+    		<span class="right">1280 x 1024</span>
+    		<div class="clr"></div>
+    	</div><!-- .row -->
+    	<div class="row">
+	    	<span>ratio</span>
+			<span class="right">5 : 4</span>
+		    <div class="clr"></div>
+		</div><!-- .row -->
+	    <div class="row">
+	    	<span>file type</span>
+	    	<span class="right">jpg</span>
+	    	<div class="clr"></div>
+	    </div><!-- .row -->
+
+	    <div class="row">
+	    	<span>size</span>
+	    	<span class="right">156kb</span>
+	    	<div class="clr"></div>
+	    </div><!-- .row -->
+	    <div class="row">
+	    	<span>viewed</span>
+	    	<span class="right">830 times</span>
+	    	<div class="clr"></div>
+	    </div><!-- .row -->
+	    <div class="row">
+	    	<span>date added</span>
+	    	<span class="right">16 Aug 2012</span>
+	    	<div class="clr"></div>
+	    </div><!-- .row -->
+	    <div class="line"></div>
+		<div class="fb-like-box" data-href="http://www.facebook.com/wallpoper" data-width="250" data-show-faces="false" data-stream="false" data-header="false"></div>
+		<div class="line"></div>
+		<center>
+			<a rel="nofollow" target="_blank" href="http://pinterest.com/wallpoper/"><img src="http://passets-cdn.pinterest.com/images/about/buttons/follow-me-on-pinterest-button.png" width="169" height="28" alt="Follow Me on Pinterest" /></a>
+		</center>
+		<div class="line"></div>
+		<div id="loadimgcalc">loading...</div>
+
+	</div><!-- #sidebar -->
+	
+	<div id="biginfo">
+				<h2>Headphones Music Wallpaper</h2>
+                <p>Headphones Music Wallpaper was added in 16 Aug 2012. 830 users has viewed and downloaded this wallpaper. Approximately 
+                    
+                    129,5 mb                    
+                     bandwith was consumed. You can download Headphones Music Wallpaper for free. All you need to do is help us grow by sharing this wallpaper if you like it :) </p>
+                
+                    <p>
+                                        </p>
+                    <br>
+                  
+                    <h3>How to Download</h3>
+					<p><strong>Desktop users:</strong> right click on the image and choose "save image as" or "set as desktop background". <strong>iPad/iPhone users:</strong> tap and hold in 2-seconds on the image then choose "save image"</p>
+					<div class="line"></div>
+                    <div class="comment-container">
+				<div class="fb-comments" data-href="http://wallpoper.com/wallpaper/headphones-music-419125" data-num-posts="2">
+			</div>
+		
+</div>
+	</div>
+
+
+	<div class="clr"></div>
+</div><!-- #wallpaper -->
+<div style="margin: 0px 150px;"></div>
+<div id="thumbWrap">
+                    
+<div class="thumbs">
+	<div class="thumbLayer" style="width:280px; height:157.5px;">
+		<a href="http://wallpoper.com/wallpaper/dont-stop-the-music-450439 ">
+			<img alt="1920x1080 Dont Stop The Music wallpaper" title="1920x1080 Dont Stop The Music wallpaper" src="http://wallpoper.com/images/00/45/04/39/dont-stop-the-music_00450439_thumb.jpg" />
+		</a>
+	</div>
+	<div class="info">
+		<h3>Dont Stop The Music</h3>
+		<span>res 1920x1080</span>
+		<span>view 833</span>
+        <span>ratio 16:9</span>
+	</div>
+	
+	
+	<ul class="comments">
+		<li>Dont Stop The Music wallpaper 1920x1080</li>
+	</ul>
+</div><!-- end div.thumbs -->
+ 
+<div class="thumbs">
+	<div class="thumbLayer" style="width:280px; height:157.5px;">
+		<a href="http://wallpoper.com/wallpaper/sony-headphones-450329 ">
+			<img alt="1920x1080 Sony Headphones wallpaper" title="1920x1080 Sony Headphones wallpaper" src="http://wallpoper.com/images/00/45/03/29/sony-headphones_00450329_thumb.jpg" />
+		</a>
+	</div>
+	<div class="info">
+		<h3>Sony Headphones</h3>
+		<span>res 1920x1080</span>
+		<span>view 1017</span>
+        <span>ratio 16:9</span>
+	</div>
+	
+	
+	<ul class="comments">
+		<li>Sony Headphones wallpaper 1920x1080</li>
+	</ul>
+</div><!-- end div.thumbs -->
+ 
+<div class="thumbs">
+	<div class="thumbLayer" style="width:280px; height:157.5px;">
+		<a href="http://wallpoper.com/wallpaper/enjoy-the-music-449835 ">
+			<img alt="1920x1080 Enjoy The Music wallpaper" title="1920x1080 Enjoy The Music wallpaper" src="http://wallpoper.com/images/00/44/98/35/enjoy-the-music_00449835_thumb.jpg" />
+		</a>
+	</div>
+	<div class="info">
+		<h3>Enjoy The Music</h3>
+		<span>res 1920x1080</span>
+		<span>view 1035</span>
+        <span>ratio 16:9</span>
+	</div>
+	
+	
+	<ul class="comments">
+		<li>Enjoy The Music wallpaper 1920x1080</li>
+	</ul>
+</div><!-- end div.thumbs -->
+ 
+<div class="thumbs">
+	<div class="thumbLayer" style="width:280px; height:157.5px;">
+		<a href="http://wallpoper.com/wallpaper/music-14-448882 ">
+			<img alt="1920x1080 Music 14 wallpaper" title="1920x1080 Music 14 wallpaper" src="http://wallpoper.com/images/00/44/88/82/music-14_00448882_thumb.jpg" />
+		</a>
+	</div>
+	<div class="info">
+		<h3>Music 14</h3>
+		<span>res 1920x1080</span>
+		<span>view 1390</span>
+        <span>ratio 16:9</span>
+	</div>
+	
+	
+	<ul class="comments">
+		<li>Music 14 wallpaper 1920x1080</li>
+	</ul>
+</div><!-- end div.thumbs -->
+ 
+<div class="thumbs">
+	<div class="thumbLayer" style="width:280px; height:157.5px;">
+		<a href="http://wallpoper.com/wallpaper/abstract-headphones-447679 ">
+			<img alt="1920x1080 Abstract Headphones wallpaper" title="1920x1080 Abstract Headphones wallpaper" src="http://wallpoper.com/images/00/44/76/79/abstract-headphones_00447679_thumb.jpg" />
+		</a>
+	</div>
+	<div class="info">
+		<h3>Abstract Headphones</h3>
+		<span>res 1920x1080</span>
+		<span>view 1239</span>
+        <span>ratio 16:9</span>
+	</div>
+	
+	
+	<ul class="comments">
+		<li>Abstract Headphones wallpaper 1920x1080</li>
+	</ul>
+</div><!-- end div.thumbs -->
+ 
+<div class="thumbs">
+	<div class="thumbLayer" style="width:280px; height:157.5px;">
+		<a href="http://wallpoper.com/wallpaper/music-is-fun-447027 ">
+			<img alt="1920x1080 Music Is Fun wallpaper" title="1920x1080 Music Is Fun wallpaper" src="http://wallpoper.com/images/00/44/70/27/music-is-fun_00447027_thumb.jpg" />
+		</a>
+	</div>
+	<div class="info">
+		<h3>Music Is Fun</h3>
+		<span>res 1920x1080</span>
+		<span>view 837</span>
+        <span>ratio 16:9</span>
+	</div>
+	
+	
+	<ul class="comments">
+		<li>Music Is Fun wallpaper 1920x1080</li>
+	</ul>
+</div><!-- end div.thumbs -->
+ 
+<div class="thumbs">
+	<div class="thumbLayer" style="width:280px; height:157.5px;">
+		<a href="http://wallpoper.com/wallpaper/love-music-446912 ">
+			<img alt="1920x1080 Love Music wallpaper" title="1920x1080 Love Music wallpaper" src="http://wallpoper.com/images/00/44/69/12/love-music_00446912_thumb.jpg" />
+		</a>
+	</div>
+	<div class="info">
+		<h3>Love Music</h3>
+		<span>res 1920x1080</span>
+		<span>view 1432</span>
+        <span>ratio 16:9</span>
+	</div>
+	
+	
+	<ul class="comments">
+		<li>Love Music wallpaper 1920x1080</li>
+	</ul>
+</div><!-- end div.thumbs -->
+ 
+<div class="thumbs">
+	<div class="thumbLayer" style="width:280px; height:157.5px;">
+		<a href="http://wallpoper.com/wallpaper/club-music-446088 ">
+			<img alt="1920x1080 Club Music wallpaper" title="1920x1080 Club Music wallpaper" src="http://wallpoper.com/images/00/44/60/88/club-music_00446088_thumb.jpg" />
+		</a>
+	</div>
+	<div class="info">
+		<h3>Club Music</h3>
+		<span>res 1920x1080</span>
+		<span>view 1303</span>
+        <span>ratio 16:9</span>
+	</div>
+	
+	
+	<ul class="comments">
+		<li>Club Music wallpaper 1920x1080</li>
+	</ul>
+</div><!-- end div.thumbs -->
+ 
+<div class="thumbs">
+	<div class="thumbLayer" style="width:280px; height:157.5px;">
+		<a href="http://wallpoper.com/wallpaper/coca-cola--music-445963 ">
+			<img alt="1920x1080 Coca Cola  Music wallpaper" title="1920x1080 Coca Cola  Music wallpaper" src="http://wallpoper.com/images/00/44/59/63/coca-cola--music_00445963_thumb.jpg" />
+		</a>
+	</div>
+	<div class="info">
+		<h3>Coca Cola  Music</h3>
+		<span>res 1920x1080</span>
+		<span>view 917</span>
+        <span>ratio 16:9</span>
+	</div>
+	
+	
+	<ul class="comments">
+		<li>Coca Cola  Music wallpaper 1920x1080</li>
+	</ul>
+</div><!-- end div.thumbs -->
+ 
+<div class="thumbs">
+	<div class="thumbLayer" style="width:280px; height:157.5px;">
+		<a href="http://wallpoper.com/wallpaper/girl-listening-to-music--anime-445806 ">
+			<img alt="1920x1080 Girl Listening To Music  Anime wallpaper" title="1920x1080 Girl Listening To Music  Anime wallpaper" src="http://wallpoper.com/images/00/44/58/06/girl-listening-to-music--anime_00445806_thumb.jpg" />
+		</a>
+	</div>
+	<div class="info">
+		<h3>Girl Listening To Music  Anime</h3>
+		<span>res 1920x1080</span>
+		<span>view 997</span>
+        <span>ratio 16:9</span>
+	</div>
+	
+	
+	<ul class="comments">
+		<li>Girl Listening To Music  Anime wallpaper 1920x1080</li>
+	</ul>
+</div><!-- end div.thumbs -->
+  
+</div><!-- end div#thumbWrap -->
+
+<div class="nextpagebuttonwrap">
+	<div onClick="_gaq.push(['_trackEvent', 'related', 'load', 'wallpaper/headphones-music-419125']);" class="nextpagebutton" page="2" id="loadpage">
+		<div class="pageloading"></div>more results
+	</div>
+</div>
+
+</div>
+<script type="text/javascript" src="http://feather.aviary.com/js/feather.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+	var op = false;
+	$('#e,#ce').click(function() {
+		$('#bigwallpaper').Jcrop({					
+			aspectRatio: 2.7,
+			bgColor:     '#5B74A8',
+			bgOpacity:   .2,
+			trueSize: [1280,1024],
+			onChange: showPerty,
+			onSelect: showPerty,
+			setSelect: [ 100, 500, 851, 315 ],
+		}, function() { 
+			jc = this; 
+			$('.jcrop-holder').addClass('mb30');
+		});
+		//leftpanel_edit();			
+		if(!op) {
+			$('#e').hide();
+			$('.cropperty').show();		
+			op = true;
+		}
+		else {
+			$('#e').show();
+			jc.destroy();	
+			$('.cropperty').hide();	
+			op = false;			
+		}
+	});
+	
+	$('#ae').click(function() {
+		return launchEditor('bigwallpaper','http://wallpoper.com/images/00/41/91/25/headphones-music_00419125.jpg');
+	});	
+	
+	function showPerty(c) {
+				$('#x').val(c.x);
+				$('#y').val(c.y);
+				$('#x2').val(c.x2);
+				$('#y2').val(c.y2);
+				$('#w').val(c.w);
+				$('#h').val(c.h);
+	};
+
+	var featherEditor = new Aviary.Feather({
+        apiKey: '878573355',
+        apiVersion: 2,
+        tools: 'all',
+        appendTo: '',
+        onSave: function(imageID, newURL) {
+            var img = document.getElementById(imageID);
+            img.src = newURL;
+			$('#himg').val(newURL);
+        }
+    });
+	
+    function launchEditor(id, src) {
+        featherEditor.launch({
+            image: id,
+            url: src
+        });
+        return false;
+    }
+});
+	function checkPerty(c) {
+		if (parseInt($('#w').val())) return true;
+		alert('Error');
+		return false;
+	}
+	
+	$('#loadpage').click(function() {
+		var nextpage = parseInt($('.nextpagebutton').attr('page'));
+		
+	    $.post("/details-more.php",
+	            {page: nextpage, keyword: "Girl Listening To Music  Anime"},
+	            function(data, textStatus) {
+	                    if(data){
+	                            nextresult = data;
+	                    }else{
+	                            nextresult = "Oops! Sorry, no more wallpapers found"; 
+
+	                    }
+						var nextpagej = nextpage + 1;
+						$(".nextpagebutton").html('<div class="pageloading"></div>more results');
+						$('.nextpagebutton').attr('page',nextpagej);
+						var $newResult = $(nextresult);
+						$("#thumbWrap").append($newResult).masonry('appended',$newResult,true);
+	            }
+
+	    );
+	});
+
+</script>
+<div id="footerwrap">
+	<div id="footer">
+		<span>Copyright &copy; 2011-2013 Wallpoper. </span>
+		<span>Made with love in Surabaya, Indonesia</span><br>
+		<a rel="nofollow" style="text-decoration:none; color: #0077aa;" href="http://wallpoper.com/tos-and-privacy-policy.php">please read our term of service, privacy and policy.</a>
+		<br><br>
+	</div>
+	<div id="feedback">
+		<a href="http://wallpoper.com/feedback.php" rel="nofollow" target="_blank">we love feed back</a>
+	</div>
+</div>
+<script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+	        		<script>
+					var _gunggo = { settings: { siteID: 'S0001453', pop: {}} };
+					_gunggo.settings.pop.freqcap={};
+					_gunggo.settings.pop.freqcap.frequency=3;
+					_gunggo.settings.pop.freqcap.duration=24;
+					</script>
+					<script type="text/javascript" src="http://cdn.directrev.com/js/gp.min.js"></script><!-- END POP-UNDER -->
+					
+<script type="text/javascript">
+var infolinks_pid = 66408;
+var infolinks_wsid = 1;
+</script>
+<script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27771528-1']);
+  _gaq.push(['_setDomainName', 'wallpoper.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script src="http://connect.facebook.net/en_US/all.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://wallpoper.com/js/js.js?1370356438"></script>
+</body>
+
+</html>

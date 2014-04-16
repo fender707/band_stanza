@@ -12,6 +12,10 @@
  *= require_tree .
  */
 
+.body {
+   background-image: image-url("/musical-headphones.jpg");   
+      }
+
 #imge {
       background: #fc1;
       }

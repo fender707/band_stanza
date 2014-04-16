@@ -12,6 +12,10 @@
  *= require_tree .
  */
 
+.body {
+   background-image: url("/public/musical-headphones.jpg");   
+      }
+
 #imge {
       background: #fc1;
       }
@@ -27,10 +31,6 @@
    img {
          float: left;
        }
-          a {
-             color: #0fb;
-	     font-size: small;
-            }
 }
 
 #side {
