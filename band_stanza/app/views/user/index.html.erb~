@@ -2,8 +2,8 @@
 <p id="notice"><%= notice %></p>
 <% end %>
 
-<%= image_tag("STANZA diff.png") %>
 
+<center><%= image_tag("STANZA diff.png") %></center>
 
-     background-image: <%= image_tag("STANZA diff.png") %>
+<center><%= image_tag("22.jpg") %></center>
 

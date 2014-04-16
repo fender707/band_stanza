@@ -37,7 +37,7 @@
     <%= javascript_include_tag "application" %>
   <style>
     body {
-      background: url("/images/headphones-music.jpg");  
+      background: url("guitar-29-song-music.jpg");  
          }
          
   </style>
@@ -60,6 +60,8 @@
               <li><%= link_to "Wiki", "http://ru.wikipedia.org/wiki/Stanza"  %></li>
               <li><%= link_to "News", "/path3"  %></li>
               <li><%= link_to "Photo", "/path4"  %></li>
+              <li><%= link_to "Biography", "/path5"  %></li>
+              <li><%= link_to "Breath", "/path6"  %></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>
@@ -77,7 +79,7 @@
               <h3>News</h3>
               <ul class="nav nav-list">
                 <li class="nav-header">Latest</li>
-                <li><%= link_to "Link1", "/path1"  %></li>
+                <li><%= link_to "29.03.2014 - Stanza in Tarantino", "/path1"  %></li>
                 <li><%= link_to "Link2", "/path2"  %></li>
                 <li><%= link_to "Link3", "/path3"  %></li>
               </ul>
