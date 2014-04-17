@@ -1,10 +1,8 @@
 BandStanza::Application.routes.draw do
-  get "biography/index"
   match 'biography',   to:  'biography#index',     via: 'get'
   resources :reviews
 
-
-  get "user/index"
+  match 'user',   to:  'user#index',     via: 'get'
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
