@@ -1,4 +1,8 @@
 BandStanza::Application.routes.draw do
+  get "biography/index", as "/biography"
+  resources :reviews
+
+
   get "user/index"
 
   # The priority is based upon order of creation:
@@ -50,7 +54,7 @@ BandStanza::Application.routes.draw do
 
   # You can have the root of your site routed with "root"
   # just remember to delete public/index.html.
-  # root :to => 'user#index', :as => 'user'
+   root :to => 'user#index', :as => 'user'
 
   # See how all your routes lay out with "rake routes"
 

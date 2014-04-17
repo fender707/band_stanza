@@ -1,4 +1,5 @@
 BandStanza::Application.routes.draw do
+  get "biography/index", as: "biography"
   resources :reviews
 
 
