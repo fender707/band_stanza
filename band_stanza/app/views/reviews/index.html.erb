@@ -6,7 +6,7 @@
   <thead>
     <tr>
       <th><%= model_class.human_attribute_name(:id) %></th>
-      <th><%= model_class.human_attribute_name(:name) %></th>
+      <th><%= model_class.human_attribute_name(:title) %></th>
       <th><%= model_class.human_attribute_name(:body) %></th>
       <th><%= model_class.human_attribute_name(:created_at) %></th>
       <th><%=t '.actions', :default => t("helpers.actions") %></th>
@@ -16,7 +16,7 @@
     <% @reviews.each do |review| %>
       <tr>
         <td><%= link_to review.id, review_path(review) %></td>
-        <td><%= review.name %></td>
+        <td><%= review.title %></td>
         <td><%= review.body %></td>
         <td><%=l review.created_at %></td>
         <td>
