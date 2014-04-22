@@ -60,6 +60,7 @@
               <li><%= link_to "Wiki", "http://ru.wikipedia.org/wiki/Stanza"  %></li>
               <li><%= link_to "News", "/path3"  %></li>
               <li><%= link_to "Photo", "/path4"  %></li>
+	      <li><%= link_to "YOUTUBE", "http://www.youtube.com/user/stanzaband"  %></li>
               <li><%= link_to "Biography", "http://localhost:3000/biography"  %></li>
               <li><%= link_to "Breath", "/path6"  %></li>
               <li><%= link_to "Reviews&Questions", "http://localhost:3000/reviews"  %></li>
