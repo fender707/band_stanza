@@ -2,7 +2,7 @@
 <p>Find me in app/views/breath/index.html.erb</p>
 
 <object type="application/x-shockwave-flash" width="400" height="170"
-data="http://yourdomain.com/xspf_player.swf?playlist_url=http://yourdomain.com/yourplaylistlist.xspf">
+data="http://localhost:3000/xspf_player.swf?playlist_url=http://localhost:3000/yourplaylistlist.xspf">
 <param name="movie" 
 value="http://yourdomain.com/xspf_player.swf?playlist_url=http://yourdomain.com/yourplaylistlist.xspf" />
 </object>
