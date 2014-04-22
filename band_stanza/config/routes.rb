@@ -1,4 +1,6 @@
 BandStanza::Application.routes.draw do
+  get "breath/index"
+
   match 'biography',   to:  'biography#index',     via: 'get'
   resources :reviews
 
