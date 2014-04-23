@@ -1,2 +1,14 @@
-<h2>Listen to an MP3 with HTML5 audio</h2>
-<%= mp3_player("https://raw.githubusercontent.com/fender707/band_stanza/master/band_stanza/public/2010 - Дыхание/01. Stanza - День и ночь.mp3") %>
+<h2>2010 - Дыхание(Breath)</h2>
+<p><%= mp3_player("/2010 - Breath/01. Stanza - Day and Night.mp3") %></p>
+<p><%= mp3_player("/2010 - Breath/02. Stanza - Ptica.mp3") %></p>
+<p><%= mp3_player("/2010 - Breath/03. Stanza - Dva shaga do vesni.mp3") %></p>
+<p><%= mp3_player("/2010 - Breath/04. Stanza - Angel.mp3") %></p>
+<p><%= mp3_player("/2010 - Breath/05. Stanza - Piesa.mp3") %></p>
+<p><%= mp3_player("/2010 - Breath/06. Stanza - Serdce.mp3") %></p>
+<p><%= mp3_player("/2010 - Breath/07. Stanza - Ti ne odin.mp3") %></p>
+<p><%= mp3_player("/2010 - Breath/08. Stanza - Dolgaja noch.mp3") %></p>
+<p><%= mp3_player("/2010 - Breath/09. Stanza - Preludija lubvi.mp3") %></p>
+<p><%= mp3_player("/2010 - Breath/10. Stanza - Nashe nad nami solnce.mp3") %></p>
+<p><%= mp3_player("/2010 - Breath/11. Stanza - Tu pidvelasja z kolin.mp3") %></p>
+<p><%= mp3_player("/2010 - Breath/12. Stanza - Mokrie ulici.mp3") %></p>
+<p><%= mp3_player("/2010 - Breath/13. Stanza - Slozi solnca.mp3") %></p>
