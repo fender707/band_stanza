@@ -1,8 +1,2 @@
-<h1>Breath#index</h1>
-<p>Find me in app/views/breath/index.html.erb</p>
-
-<object type="application/x-shockwave-flash" width="400" height="170"
-data="http://localhost:3000/xspf_player.swf?playlist_url=http://localhost:3000/yourplaylistlist.xspf">
-<param name="movie" 
-value="http://yourdomain.com/xspf_player.swf?playlist_url=http://yourdomain.com/yourplaylistlist.xspf" />
-</object>
+<h2>Listen to an MP3 with HTML5 audio</h2>
+<%= mp3_player("https://raw.githubusercontent.com/fender707/band_stanza/master/band_stanza/public/2010 - Дыхание/01. Stanza - День и ночь.mp3") %>
