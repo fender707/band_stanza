@@ -4,5 +4,12 @@
 
  li  {
              list-style: none; 
-             color: #e6b;
+             color: #ffb;
             }
+.bio {
+    
+        li  {
+             list-style: #123; 
+             color: #06b;
+            } 	
+     }
