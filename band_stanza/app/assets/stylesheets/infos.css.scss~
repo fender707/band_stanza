@@ -14,8 +14,8 @@ table td {
             }
 
 .list_image {
-  width:120px;
-  height: 80px;
+  width:100px;
+  height: 130px;
   }
 
 

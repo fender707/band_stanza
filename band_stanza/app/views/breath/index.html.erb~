@@ -1,9 +1,3 @@
-  <style>
-    body {
-      background: url("3d-abstract_other_musical-headphones_38126.jpg");  
-         }
-         
-  </style>
 <h2>2010 - Дыхание(Breath)</h2>
 
 01. День и ночь <center><%= mp3_player("/2010 - Breath/01. Stanza - Den' i noch.mp3") %></center>

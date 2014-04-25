@@ -55,7 +55,7 @@
          
           <a class="brand" href="#"> <%= image_tag("STANZA diff_little.png") %></a>
           <div class="container nav-collapse">
-            <ul class="side">
+            <ul class="nav">
              
               <li><%= link_to "Home", "http://localhost:3000/"  %></li>
               <li><%= link_to "Wiki", "http://ru.wikipedia.org/wiki/Stanza"  %></li>

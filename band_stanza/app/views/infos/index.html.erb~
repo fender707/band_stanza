@@ -3,12 +3,12 @@
 <table>
 <% @infos.each do |info| %>
   <td>
-    <%= image_tag(info.image_url,class: 'list_image') %>
+    <% image_tag(info.image_url,class: 'list_image') %>
   </td>
 <td class="list_description">
   <dl>
-     <dt><%= info.title %></dt>
-     <dd><%= truncate(strip_tags(info.description),length: 80) %></dd>
+     <dt><% info.title %></dt>
+     <dd><% truncate(strip_tags(info.description),length: 80) %></dd>
   </dl>
 </td>
 

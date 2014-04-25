@@ -33,13 +33,14 @@
           <div class="span3">
             <div class="well sidebar-nav">
               <ul class="nav nav-list">
-               
+               <div class="bio">
 		  <li class="nav-header">Текущий состав</li>
                   <li><%= link_to "Андрей Журба – вокал, гитара", "/path1"  %></li>
                   <li><%= link_to "Вячеслав Сокало – гитара, бэк-вокал", "/path1"  %></li>
                   <li><%= link_to "Сергей Пастернак – бас-гитара", "/path1"  %></li>
                   <li><%= link_to "Руслан Руднев – клавишные", "/path1"  %></li>
                   <li><%= link_to "Александр Чагайна – ударные", "/path1"  %></li>	
+</div>
               </ul>
 
             </div><!--/.well -->
