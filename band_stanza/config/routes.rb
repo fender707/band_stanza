@@ -1,10 +1,9 @@
 BandStanza::Application.routes.draw do
  
-  get "news/index"
 
   resources :infos
 
-
+  match 'news',   to:  'news#index',     via: 'get'
   match 'breath',   to:  'breath#index',     via: 'get'
   match 'biography',   to:  'biography#index',     via: 'get'
   resources :reviews
