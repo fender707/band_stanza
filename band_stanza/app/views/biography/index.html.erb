@@ -1,4 +1,11 @@
-
+<style>
+A {
+  color: #000000;
+}
+A:visited {
+  color: #CC6633;
+}
+</style>
     <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
     <!--[if lt IE 9]>
       <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.1/html5shiv.js" type="text/javascript"></script>
@@ -33,13 +40,12 @@
           <div class="span3">
             <div class="well sidebar-nav">
               <ul class="nav nav-list">
-               <div class="bio">
 		  <li class="nav-header">Текущий состав</li>
-                  <li><%= link_to "Андрей Журба – вокал, гитара", "/path1"  %></li>
-                  <li><%= link_to "Вячеслав Сокало – гитара, бэк-вокал", "/path1"  %></li>
-                  <li><%= link_to "Сергей Пастернак – бас-гитара", "/path1"  %></li>
-                  <li><%= link_to "Руслан Руднев – клавишные", "/path1"  %></li>
-                  <li><%= link_to "Александр Чагайна – ударные", "/path1"  %></li>	
+                  <li class="bio"><%= link_to "Андрей Журба – вокал, гитара", "/path1"  %></li>
+                  <li class="bio"><%= link_to "Вячеслав Сокало – гитара, бэк-вокал", "/path1"  %></li>
+                  <li class="bio"><%= link_to "Сергей Пастернак – бас-гитара", "/path1"  %></li>
+                  <li class="bio"><%= link_to "Руслан Руднев – клавишные", "/path1"  %></li>
+                  <li class="bio"><%= link_to "Александр Чагайна – ударные", "/path1"  %></li>	
                </div>
               </ul>
 

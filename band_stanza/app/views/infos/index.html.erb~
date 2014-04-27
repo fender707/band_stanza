@@ -1,14 +1,14 @@
-<h1>Listing infos</h1>
+<h1>News</h1>
 
 <table>
 <% @infos.each do |info| %>
   <td>
-    <% image_tag(info.image_url,class: 'list_image') %>
+    <%= image_tag(info.image_url,class: 'list_image') %>
   </td>
 <td class="list_description">
   <dl>
-     <dt><% info.title %></dt>
-     <dd><% truncate(strip_tags(info.description),length: 80) %></dd>
+     <dt><%= info.title %></dt>
+     <dd><%= truncate(strip_tags(info.description),length: 80) %></dd>
   </dl>
 </td>
 
@@ -16,7 +16,7 @@
 <td class="list_actions">
     <%= link_to 'Show', info %><br/>
     <%= link_to 'Edit', edit_info_path(info) %><br/>
-    <%= link_to 'Destroy', info, method: :delete, data: { confirm: 'Are you sure?' } %><br/>
+    <%= link_to 'Destroy', info, method: :delete, data: { confirm: 'Are you sure?' } %>
 </td>
 <% end %>
 </table>

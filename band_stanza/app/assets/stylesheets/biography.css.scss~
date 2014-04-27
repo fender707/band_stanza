@@ -2,14 +2,15 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
- li  {
+.li  {
              list-style: none; 
              color: #ffb;
             }
-.bio {
+bio {
     
         li  {
-             list-style: #123; 
-             color: #06b;
+            
+             list-style: none; 
+             color: #CC6633;
             } 	
      }

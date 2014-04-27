@@ -14,8 +14,8 @@ table td {
             }
 
 .list_image {
-  width:100px;
-  height: 130px;
+  width:180px;
+  height: 120px;
   }
 
 
@@ -27,6 +27,7 @@ margin:0 ;
 }
 
 dt{
+   width: 500px;
    color: #244;
    font-weight: bold;
    font-size: larger;
@@ -43,6 +44,14 @@ dd {
   text-align: right;
   padding-left: 1em;
 
+}
+
+.list_line_even {
+  background: #CCFF33;
+}
+
+.list_line_odd {
+  background: #6666CC;
 }
 
 }
