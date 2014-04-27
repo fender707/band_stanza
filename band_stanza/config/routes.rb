@@ -1,5 +1,7 @@
 BandStanza::Application.routes.draw do
  
+  get "news/index"
+
   resources :infos
 
 
