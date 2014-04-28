@@ -1,0 +1,6 @@
+class BreathController < ApplicationController
+   def index
+      background: url("3d-abstract_other_musical-headphones_38126.jpg")
+  end
+
+end

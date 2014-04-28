@@ -1,0 +1,13 @@
+<% if notice %>
+<p id="notice"><%= notice %></p>
+<% end %>
+
+<h2>News</h2>
+
+<% @infos.each do |info| %>
+  <div class="entry">
+    <%= image_tag(info.image_url) %>
+    <h3><%= info.title %></h3>
+    <p><%= sanitize(info.description) %></p>
+  </div>
+<% end %>

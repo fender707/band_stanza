@@ -1,0 +1,11 @@
+<% if notice %>
+<p id="notice"><%= notice %></p>
+<% end %>
+
+
+<center><%= image_tag("STANZA diff.png") %></center>
+
+<center><%= image_tag("2C7LJHtfvWE.jpg") %></center>
+
+
+

@@ -1,0 +1,59 @@
+// Place all the styles related to the Infos controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.infos {
+       table {
+           border-collapse: collapse;
+             }
+       
+
+table td {
+       padding:5px;
+       vertical-align: top;
+            }
+
+.list_image {
+  width:180px;
+  height: 120px;
+  }
+
+
+.list_description {
+   width: 60px;
+
+dl {
+margin:0 ;
+}
+
+dt{
+   width: 500px;
+   color: #244;
+   font-weight: bold;
+   font-size: larger;
+}
+
+dd {
+   margin: 0;
+}
+
+}
+
+.list_actions {
+  font-size: x_small;
+  text-align: right;
+  padding-left: 1em;
+
+}
+
+.list_line_even {
+  background: #CCFF33;
+}
+
+.list_line_odd {
+  background: #6666CC;
+}
+
+}
+
+
