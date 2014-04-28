@@ -43,7 +43,7 @@
          
   </style>
   </head>
-  <body>
+  <body class='<%= controller.controller_name %>'>
     <div class="navbar navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container">
@@ -59,13 +59,13 @@
              
               <li><%= link_to "Home", "http://localhost:3000/"  %></li>
               <li><%= link_to "Wiki", "http://ru.wikipedia.org/wiki/Stanza"  %></li>
-              <li><%= link_to "News", "/path3"  %></li>
+              <li><%= link_to "News", "/news"  %></li>
               <li><%= link_to "Photo", "/path4"  %></li>
 	      <li><%= link_to "YOUTUBE", "http://www.youtube.com/user/stanzaband"  %></li>
-              <li><%= link_to "Biography", "http://localhost:3000/biography"  %></li>
-              <li><%= link_to "Breath", "http://localhost:3000/breath"  %></li>
-              <li><%= link_to "Reviews&Questions", "http://localhost:3000/reviews"  %></li>
-              <li><%= link_to "Sign in", "http://localhost:3000/reviews"  %></li>
+              <li><%= link_to "Biography", "/biography"  %></li>
+              <li><%= link_to "Breath", "/breath"  %></li>
+              <li><%= link_to "Reviews&Questions", "/reviews"  %></li>
+              <li><%= link_to "Sign in", "/reviews"  %></li>
 
             </ul>
           </div><!--/.nav-collapse -->
