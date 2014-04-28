@@ -1,9 +1,9 @@
 <style>
 A {
-  color: #E00000;
+  color: #000000;
 }
 A:visited {
-  color: #CC8000;
+  color: #CC6633;
 }
 </style>
     <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
