@@ -19,6 +19,29 @@ margin-bottom: 5px;
 position: absolute;
 }
 
+h3 {
+font-size: 120%;
+font-family: sans-serif;
+margin-left: 100px;
+margin-top: 0;
+margin-bottom: 2px;
+color: #227;
+}
+
+a {
+  color: #66CC44;
+  text-decoration: none;
+  &:visited {
+    color: #CC6633;
+  }
+  &:hover {
+    color: #fff;
+    background-color: #CC6633;
+  }
+}
+
+
+
 
 p {
 margin-left: 100px;

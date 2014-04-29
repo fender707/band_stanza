@@ -28,6 +28,19 @@ margin-bottom: 2px;
 color: #227;
 }
 
+a {
+  color: #66CC44;
+  text-decoration: none;
+  &:visited {
+    color: #CC6633;
+  }
+  &:hover {
+    color: #fff;
+    background-color: #CC3333;
+  }
+}
+
+
 
 
 p {
