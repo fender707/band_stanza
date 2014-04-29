@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 gem "therubyracer"
 gem "less-rails"
 gem "twitter-bootstrap-rails"
-
+gem 'mp3_player'
 gem 'rails', '3.2.12'
 
 # Bundle edge Rails instead:

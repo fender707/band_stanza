@@ -3,7 +3,7 @@
 <% end %>
 
 
-<center><%= image_tag("STANZA diff.png") %></center>
+<center><%= image_tag("IMG_3433little.png") %></center>
 
 <center><%= image_tag("0-1W5mtXcOM.jpg") %></center>
 
