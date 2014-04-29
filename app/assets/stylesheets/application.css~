@@ -35,12 +35,12 @@
     padding: 10px;
     border-bottom: 2px solid;
     background: #cfb;
-font: small-caps 20px/20px "Times New Roman", serif;
+    font: small-caps 20px/20px "Times New Roman", serif;
      ul  {
      padding: 0;
         li  {
              list-style: none; 
-             color: #f6b;
+             color: #06b;
             }
           a {
              color: #0fb;
@@ -49,3 +49,15 @@ font: small-caps 20px/20px "Times New Roman", serif;
  	 }
 
 }
+
+.my {
+
+font-size: 120%;
+font-family: sans-serif;
+margin-left: 100px;
+margin-top: 0;
+margin-bottom: 2px;
+color: #CC6633;
+
+}
+
