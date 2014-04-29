@@ -86,17 +86,17 @@
           </div>
           <div class="span3">
             <div class="well sidebar-nav">
-              <h3>News</h3>
+              <h2>News</h2>
               <ul class="nav nav-list">
                 <li class="nav-header">Latest</li>
                 <li><%= link_to "29.03.2014 - Stanza in Tarantino", "/path1"  %></li>
                 <li><%= link_to "18.01.2014 - Stanza in PuPuPub", "/path2"  %></li>
                 <li><%= link_to "08.02.2014 - Stanza in Art-pub", "/path3"  %></li>
               </ul>
-              <h3>Album</h3>
+              <h2>2010 - Дыхание</h2>
 		<ul class="nav nav-list">
                   <li class="nav-header">2010 - Дыхание</li>
-		  <a class="brand" href="http://localhost:3000/breath"><%= image_tag("album_logo.jpg") %></a></ br>
+		  <a class="brand" href="http://localhost:3000/breath"><%= image_tag("album_logo.jpg") %></a><br/>
                   <center><a class="brand" href="https://www.facebook.com/pages/Stanza/171902236168081"><%= image_tag("facebook.png") %></a></center>
 
  		</ul>
