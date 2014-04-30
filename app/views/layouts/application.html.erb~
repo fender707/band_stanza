@@ -64,8 +64,8 @@
               <li><%= link_to "Biography", "/biography"  %></li>
               <li><%= link_to "Reviews&Questions", "/reviews"  %></li>
 
-  	      <% if current_human %>
-  	        Signed in as <strong><%= current_human.name %></strong>!
+  	      <% if current_user %>
+  	        Signed in as <strong><%= current_user.name %></strong>!
   	       <li><%= link_to "Sign out", signout_path, id: "sign_out" %></li>
   	       <% else %>
   	       <li><%= link_to "Sign in with Facebook", "/auth/facebook", id: "sign_in" %></li>
