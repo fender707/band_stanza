@@ -4,4 +4,10 @@ class SessionsController < ApplicationController
     session[:human_id] = human.id
     redirect_to root_url
   end
+
+  def destroy
+    session[:human_id] = nil
+    redirect_to root_url
+  end
+
 end

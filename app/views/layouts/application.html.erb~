@@ -93,7 +93,7 @@
                 <li><%= link_to "18.01.2014 - Stanza in PuPuPub", "/path2"  %></li>
                 <li><%= link_to "08.02.2014 - Stanza in Art-pub", "/path3"  %></li>
               </ul>
-              <h2>2010 - Дыхание</h2>
+              <h2>Album</h2>
 		<ul class="nav nav-list">
                   <li class="nav-header">2010 - Дыхание</li>
 		  <a class="brand" href="http://localhost:3000/breath"><%= image_tag("album_logo.jpg") %></a><br/>
