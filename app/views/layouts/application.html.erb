@@ -53,10 +53,10 @@
             <span class="icon-bar"></span>
           </a>
          
-          <a class="brand" href="http://localhost:3000/"> <%= image_tag("STANZA diff_little.png") %></a>
+         
           <div class="container nav-collapse">
             <ul class="nav">
-             
+             <li><%= link_to image_tag("STANZA diff_little.png"),"http://localhost:3000/" %></li>
               <li><%= link_to "Wiki", "http://ru.wikipedia.org/wiki/Stanza"  %></li>
               <li><%= link_to "News", "/news"  %></li>
               <li><%= link_to "Photo", "/path4"  %></li>
@@ -68,10 +68,10 @@
     Welcome <strong><%= current_user.name %></strong>!
     <li><%= link_to "Sign out", signout_path, id: "sign_out" %></li>
   <% else %>
-    <li><%= link_to "Sign in with Facebook", "/auth/facebook", id: "sign_in" %></li>
+    <li><%= link_to "Sign in with Facebook", "/auth/facebook/", id: "sign_in" %></li>
   
 
-            <li><%= link_to image_tag("icon_facebook.jpg"), "/auth/facebook", id: "sign_in" %></li>
+            <li><%= link_to image_tag("icon_facebook.jpg"), "/auth/facebook/", id: "sign_in" %></li>
 <% end %>
             </ul>
           </div><!--/.nav-collapse -->

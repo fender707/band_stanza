@@ -10,9 +10,9 @@ BandStanza::Application.routes.draw do
 
   match 'user',   to:  'user#index',     via: 'get'
 
-match 'auth/:provider/callback', to: 'sessions#create', via: 'get'
-match 'auth/failure', to: redirect('/') , via: 'get'
-match 'signout', to: 'sessions#destroy', as: 'signout', via: 'get'
+match 'auth/:provider/callback', to: 'sessions#create'
+match 'auth/failure', to: redirect('/') 
+match 'signout', to: 'sessions#destroy', as: 'signout'
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
