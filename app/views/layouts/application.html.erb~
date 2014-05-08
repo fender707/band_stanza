@@ -59,7 +59,7 @@
              <li><%= link_to image_tag("STANZA diff_little.png"),"http://localhost:3000/" %></li>
               <li><%= link_to "Wiki", "http://ru.wikipedia.org/wiki/Stanza"  %></li>
               <li><%= link_to "News", "/news"  %></li>
-              <li><%= link_to "Photo", "/path4"  %></li>
+              <li><%= link_to "Photos", "/path4"  %></li>
 	      <li><%= link_to "YOUTUBE", "http://www.youtube.com/user/stanzaband"  %></li>
               <li><%= link_to "Biography", "/biography"  %></li>
               <li><%= link_to "Reviews", "/reviews"  %></li>
@@ -68,7 +68,7 @@
     Welcome <strong><%= current_user.name %></strong>!
     <li><%= link_to "Sign out", signout_path, id: "sign_out" %></li>
   <% else %>
-    <li><%= link_to "Sign in with Facebook", "/auth/facebook", id: "sign_in" %></li>
+    <li><%= link_to "Sign in with", image_tag("icon_facebook.jpg"), "/auth/facebook", id: "sign_in" %></li>
     <li><%= link_to image_tag("icon_facebook.jpg"), "/auth/facebook", id: "sign_in" %></li>
   <% end %>
             </ul>
@@ -96,7 +96,10 @@
 		<ul class="nav nav-list">
                   <li class="nav-header">2010 - Дыхание</li>
 		  <a class="brand" href="http://localhost:3000/breath"><%= image_tag("album_logo.jpg") %></a><br/>
-                  <center><a class="brand" href="https://www.facebook.com/pages/Stanza/171902236168081"><%= image_tag("facebook.png") %></a></center>
+		<my>   
+                  <li class="nav-header">Facebook Page</li>               
+		  <a class="brand" href="https://www.facebook.com/pages/Stanza/171902236168081"><%= image_tag("facebook.png") %></a> 
+		</my>  
 
  		</ul>
             </div><!--/.well -->

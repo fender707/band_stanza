@@ -11,7 +11,7 @@
 font-size: 500%;
 font-family: "Courier";
 margin-bottom: 2px;
-color: #CD5555;
+color: #CD6600;
 }
 
 .entry {
@@ -20,7 +20,7 @@ margin-top: 1em;
 border-bottom : 1px dotted #77d;
 min-height: 100px;
 img {
-width: 80px;
+width: 100px;
 margin-right: 5px;
 margin-bottom: 5px;
 position: absolute;

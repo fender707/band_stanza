@@ -6,6 +6,7 @@ gem "twitter-bootstrap-rails"
 gem "omniauth-facebook"
 gem 'mp3_player'
 gem 'rails', '3.2.12'
+gem "flexslider"
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
