@@ -7,6 +7,8 @@ gem "omniauth-facebook"
 gem 'mp3_player'
 gem 'rails', '3.2.12'
 gem "flexslider"
+gem "flexslider-rails"
+gem "rake", "10.3.2"
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'

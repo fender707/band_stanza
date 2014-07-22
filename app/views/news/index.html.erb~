@@ -5,11 +5,16 @@
 <script type="text/javascript" src="jquery.flexslider.js"></script>
 <script type="text/javascript" src="flexslider.css"></script>
 <script type="text/javascript">
+
+
+
+
 // Can also be used with $(document).ready()
-$(window).load(function() {
+<!-- Place in the <head>, after the three links -->
+<script type="text/javascript" charset="utf-8">
+ $(window).load(function() {
   $('.flexslider').flexslider({
     animation: "slide"
-    slideshow: true
   });
 });
 </script>
@@ -38,7 +43,7 @@ $(window).load(function() {
       <img src="facebook.png" />
     </li>
     <!-- items mirrored twice, total of 12 -->
-  </ul>
+ </ul>
 </div>
 
 
