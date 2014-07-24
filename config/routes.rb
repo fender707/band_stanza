@@ -6,6 +6,7 @@ BandStanza::Application.routes.draw do
   match 'news',   to:  'news#index',     via: 'get'
   match 'breath',   to:  'breath#index',     via: 'get'
   match 'biography',   to:  'biography#index',     via: 'get'
+  match 'gallery',   to:  'gallery#index',     via: 'get'
   resources :reviews
 
   match 'user',   to:  'user#index',     via: 'get'

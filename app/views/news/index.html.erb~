@@ -23,16 +23,10 @@
 <center>News</center>
 </div>
 
-<% @infos.each do |info| %>
-  <div class="entry">
-    <%= image_tag(info.image_url) %>
-    <h3><%= link_to (info.title), "news/path1"  %></h3>
-    <p><%= sanitize(info.description) %></p>
-  </div>
-<% end %>
+
 
 <div class="flexslider">
-  <ul class="slides">
+  <ul class="flex-viewport ">
     <li>
       <img src="album_logo.png" />
     </li>
