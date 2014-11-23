@@ -36,6 +36,8 @@
     <%= favicon_link_tag 'favicon.ico', :rel => 'shortcut icon' %>
 
     <%= javascript_include_tag "application" %>
+
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
   <style>
     body {
       background: url("3d-abstract_other_musical-headphones_38126.jpg");  
@@ -44,6 +46,11 @@
   </style>
   </head>
   <body class='<%= controller.controller_name %>'>
+
+   <div id="something">
+    <h2>23.11.2014 - Soon you wil see new video "Bird"</h2>
+   </div>
+
     <div class="navbar navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container">
@@ -76,7 +83,9 @@
         </div>
       </div>
     </div>
-
+<script type="text/javascript">
+    $('#something').animate({'margin-top': '50px', 'margin-left': '100px'},2000);
+</script>
     <div class="container">
         <div class="row">
           <div class="span9">
@@ -110,6 +119,7 @@
       </footer>
 
     </div> <!-- /container -->
+
 
   </body>
 </html>

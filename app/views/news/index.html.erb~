@@ -2,42 +2,23 @@
 <p id="notice"><%= notice %></p>
 <% end %>
 
-<script type="text/javascript" src="jquery.flexslider.js"></script>
-<script type="text/javascript" src="flexslider.css"></script>
-<script type="text/javascript">
+<head>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js">
+</head>
 
-
-
-
-// Can also be used with $(document).ready()
-<!-- Place in the <head>, after the three links -->
-<script type="text/javascript" charset="utf-8">
- $(window).load(function() {
-  $('.flexslider').flexslider({
-    animation: "slide"
-  });
-});
-</script>
 
 <div class="main">
 <center>News</center>
 </div>
 
+<% @infos.each do |info| %>
+  <div class="entry">
+    <%= image_tag(info.image_url) %>
+    <h3><%= link_to (info.title), "news/path1"  %></h3>
+    <p><%= sanitize(info.description) %></p>
+  </div>
+<% end %>
 
 
-<div class="flexslider">
-  <ul class="flex-viewport ">
-    <li>
-      <img src="album_logo.png" />
-    </li>
-    <li>
-      <img src="1270466333_18643.jpg" />
-    </li>
-    <li>
-      <img src="facebook.png" />
-    </li>
-    <!-- items mirrored twice, total of 12 -->
- </ul>
-</div>
 
 

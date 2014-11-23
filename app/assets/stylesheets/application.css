@@ -14,6 +14,16 @@
  */
 @import 'flexslider'
 
+#something {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    color: white;
+    border: 4px solid black;
+    margin: 100px 0 0 80px;
+    }
+
+
 #imge {
       background: #fc1;
       }
